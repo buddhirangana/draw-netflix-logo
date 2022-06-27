@@ -120,4 +120,4 @@ First, we changed the turtle trace color from white (in part 1) to black so we d
 
 ## Output
 
-<p align="center"><img src=""></p>
+<p align="center"><img src="https://github.com/buddhirangana/draw-netflix-logo/blob/d49acac97f9b2b6fcb3b91e516083b07d9f4d3b7/demo.png"></p>
