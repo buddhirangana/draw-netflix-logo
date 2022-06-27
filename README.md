@@ -1,6 +1,6 @@
 # Draw Netflix Logo
 
-In this code, we will be learning how to draw Netflix logo using Python Turtle. We’ll divide the process into 3 parts, and explain each one of them.
+In this tutorial, we will be learning how to draw Netflix logo using Python Turtle. We’ll divide the process into 3 parts, and explain each one of them.
 
 ## Import the module and initialize it
 
